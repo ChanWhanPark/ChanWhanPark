@@ -7,7 +7,7 @@
 - Majoring Embedded System in Korean Polytechnic University
 
 ### Skils
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanWhanPark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=blue"/>
 
 ### Social
 <div>
@@ -22,6 +22,9 @@
             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
 </div>
+
+### GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanWhanPark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChanWhanPark)](https://github.com/anuraghazra/github-readme-stats)
 
