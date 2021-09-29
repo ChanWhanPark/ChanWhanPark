@@ -16,6 +16,11 @@
             src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/chanan_park/"
             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
+    <a href="https://chanan-park.tistory.com/">
+        <img 
+            src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://chanan-park.tistory.com/"
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
 </div>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChanWhanPark)](https://github.com/anuraghazra/github-readme-stats)
