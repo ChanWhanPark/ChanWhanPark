@@ -7,7 +7,7 @@
 - Majoring Embedded System in Korean Polytechnic University
 
 ### Skils
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ### Social
 <div>
